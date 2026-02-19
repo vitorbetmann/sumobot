@@ -1,7 +1,7 @@
 # Codes for my tournament-winning sumobots.
 
 ## Context
-A sumobot (or robot-sumo) torunament is a competition in which two autonomous robots attempt to push each other out of a circular arena (like human sumo).
+A sumobot (or robot-sumo) torunament is a competition in which two autonomous robots attempt to push each other out of a circular arena (like human sumo). I competed in the `mini` category, which restricts robots' dimensions to a 10x10 cm2 and its maximum weight to 500 g.
 
 ## Robots' Components
 Both EspressoBot and MatchaBot contained:
