@@ -13,4 +13,8 @@ Both EspressoBot and MatchaBot contained:
 - 1x 3d printed, cube-shaped carcass
 
 ## Approach and Outcomes
+
+Both bots use a sliding-window moving average algorithm implemented with a circular buffer for O(1) IR sensor smoothing and noise rejection. MatchaBot iterated on EspressoBot's foundation, reducing IR noise readings from 8% to 3% and increasing main loop speed by 178% during opponent search. There was also CappuccinoBot, but we don't talk about it...
+
+
 More info on each bot's README
